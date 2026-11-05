@@ -6,7 +6,7 @@ const projects = [
     id: 1,
     name: "AI Career Assistant",
     description:
-      "An intelligent career assistant that analyzes user skills and recommends suitable career paths, learning resources and project ideas.",
+      "An intelligent Career assistant that analyzes user skills and recommends suitable career paths, learning resources and project ideas.",
     image:
       "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=900&q=80",
     tags: [
@@ -216,7 +216,7 @@ function ErrorPopup({
           className="popup-close"
           onClick={closePopup}
         >
-          OK, I'll Correct It
+          OK,I'll Correct It
         </button>
       </div>
     </div>
@@ -690,7 +690,7 @@ function Footer() {
           </h2>
           <p className="footer-description">
             Best Engineering College is
-            committed to helping students
+            committed to helping the students
             and professionals develop
             technology skills and build
             successful careers.
@@ -717,7 +717,7 @@ function Footer() {
               Mobile No:
             </strong>
             {" "}
-            836361064
+            836361724
           </p>
         </div>
       </div>
