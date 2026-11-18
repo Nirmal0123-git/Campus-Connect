@@ -195,7 +195,7 @@ The password field is included for demonstration purposes only. A production app
 **Project Name:** Campus Connect  
 **Project Type:** Web Development  
 **Domain:** Career Management & IT Project Showcase  
-**Technologies:** HTML, CSS, JavaScript, React.js
+**Technologies:** HTML, CSS, JavaScript
 
 ---
 
